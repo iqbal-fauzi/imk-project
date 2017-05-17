@@ -1,11 +1,4 @@
 <footer>
-<!--<div class="container">
-    <div class="row">
-        <div class="col-sm-12">
-                <p>� Copyright 2017 Site</p>
-        </div>
-    </div>
-</div>-->
     <div id="footer">
 			<div class="footer-menu container-fluid">
 				<div class="row">
